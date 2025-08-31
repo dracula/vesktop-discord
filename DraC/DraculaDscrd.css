@@ -881,7 +881,7 @@ body {
 
 /* --- DMs button module --- */
 body {
-    --dms-icon-svg-url: url('https://raw.githubusercontent.com/CtorW/DiscordDracula/refs/heads/main/data/DracIcon.svg');
+    --dms-icon-svg-url: url('https://raw.githubusercontent.com/CtorW/Vesktop-Discord/refs/heads/main/data/DracIcon.svg');
     --dms-icon-svg-size: 90%;
     --dms-icon-color-before: var(--icon-secondary);
     --dms-icon-color-after: var(--white);

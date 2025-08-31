@@ -20,7 +20,7 @@
 */
 
 /* --- CORE --- */
-@import url('https://raw.githubusercontent.com/CtorW/DiscordDracula/refs/heads/main/DraC/DraculaDscrd.css');
+@import url('https://raw.githubusercontent.com/CtorW/Vesktop-Discord/refs/heads/main/DraC/DraculaDscrd.css');
 
 /* --- FONT  --- */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fira+Code:wght@400;500;600&display=swap');
@@ -56,7 +56,7 @@ body {
     --code-font: 'Fira Code';
 
     --custom-dms-icon: custom;
-    --dms-icon-svg-url: url('https://raw.githubusercontent.com/CtorW/DiscordDracula/refs/heads/main/data/DracIcon.svg');
+    --dms-icon-svg-url: url('https://raw.githubusercontent.com/CtorW/Vesktop-Discord/refs/heads/main/data/DracIcon.svg');
     --dms-icon-svg-size: 90%;
     --dms-icon-color-before: var(--icon-secondary);
     --dms-icon-color-after: var(--white);
