@@ -1,21 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Discord, Vesktop, Vencord](https://discord.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Discord](https://discord.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/Vesktop](https://draculatheme.com/Vesktop).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/discord/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
-
+| [![CtorW](https://avatars.githubusercontent.com/u/129820204?v=4&s=100)](https://github.com/CtorW) |
+| ---------------------------------------------------------------------------------------- | 
+| [CtorW](https://github.com/CtorW)                                               | 
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.

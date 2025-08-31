@@ -1,16 +1,16 @@
-### [Foobar](https://foobar.com)
+### [Discord](https://Discord.com)
 
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+#### Install using QuickCSS
 
 ```bash
-git clone https://github.com/dracula/foobar.git
+
 ```
 
-#### Install manually
+#### Install using ThemeFolder
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+```bash
+
+```
 
 #### Activating theme
 
