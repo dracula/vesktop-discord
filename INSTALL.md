@@ -38,7 +38,9 @@
 #### Install using QuickCSS
 Copy the contents in `Dracula.theme.css` raw file into Vesktop QuickCSS
 
-[`Dracula.theme.css`](https://raw.githubusercontent.com/CtorW/Vesktop-Discord/refs/heads/main/Dracula.theme.css)
+### Copy Here ↓
+
+### [`Dracula.theme.css`](https://raw.githubusercontent.com/CtorW/Vesktop-Discord/refs/heads/main/Dracula.theme.css)
 
 #### Install using ThemeFolder
 
