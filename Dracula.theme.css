@@ -2,7 +2,7 @@
  * @name Dracula | based on midnight by refact0r
  * @description A dark Dracula Theme for Discord
  * @author Dracula
- * @version 3.0
+ * @version 3.4
  * @invite nz87hXyvcy
  * @website https://draculatheme.com/
  * @source https://github.com/refact0r/midnight-discord/blob/master/themes/midnight.theme.css
@@ -28,7 +28,7 @@ body {
     font-weight: 400;
     --gap: 12px;
     --divider-thickness: 4px;
-    --border-thickness: 1px;
+    --border-thickness: 2px;
     --animations: on;
     --list-item-transition: 0.2s ease;
     --dms-icon-svg-transition: 0.4s ease;
@@ -65,7 +65,7 @@ body {
     --colors: on;
     --text-0: #282A36;
     --text-1: #F8F8F2;
-    --text-2: #F8F8F2;
+    --text-2: #8BE9FD;
     --text-3: #F8F8F2;
     --text-4: #6272A4;
     --text-5: #6272A4;
