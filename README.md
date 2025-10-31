@@ -1,4 +1,4 @@
-# Dracula for [Discord, Vesktop, Vencord](https://discord.com)
+# Dracula for [Discord, Vesktop, Vencord](https://github.com/Vencord/Vesktop)
 
 > A dark theme for [Discord](https://discord.com).
 
@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/Vesktop](https://draculatheme.com/Vesktop).
+All instructions can be found at [draculatheme.com/Vesktop](https://draculatheme.com/vesktop-discord).
 
 ## Team
 
