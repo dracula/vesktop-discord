@@ -2,35 +2,8 @@
 
 # Install Vesktop
 
-## 🧛‍♂️Debian/Ubuntu
+### [INSTALL VESKTOP HERE 🧛‍♂️](https://github.com/Vencord/Vesktop/releases/)
 
-1.  [Download `.deb`](https://github.com/Vencord/Vesktop/releases/download/v1.5.8/vesktop_1.5.8_amd64.deb)
-2.  **Install via `apt` or `dpkg`:**
-    ```bash
-    cd ~/Downloads/
-    sudo apt install ./vesktop-*.deb
-    ```
-    *   Alternative `sudo dpkg -i vesktop-*.deb` and then `sudo apt install -f` to fix any missing dependencies.
-
-## 🧛‍♂️Fedora/RHEL/CentOS
-
-1.  [Download x86 x64 `.rpm`](https://github.com/Vencord/Vesktop/releases/download/v1.5.8/vesktop-1.5.8.x86_64.rpm)<br>
-1.2 [Download aarch64 `.rpm`](https://github.com/Vencord/Vesktop/releases/download/v1.5.8/vesktop-1.5.8.aarch64.rpm)
-2.  **Install via `dnf`:**
-    ```bash
-    cd ~/Downloads/
-    sudo dnf install ./vesktop-*.rpm
-    ```
-## 🧛‍♂️Arch Linux
-
-1.  **Ensure `git` and `base-devel` are installed:**
-    ```bash
-    sudo pacman -S --needed git base-devel
-    ```
-2.  **Install Vesktop using the AUR helper:**
-    ```bash
-    yay -S vesktop
-    ```
 <br>
 
 # Theme installation
